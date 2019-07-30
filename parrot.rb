@@ -7,3 +7,4 @@ end
 
 parrot( )
 puts"first call done."
+puts parrot("Hello")
