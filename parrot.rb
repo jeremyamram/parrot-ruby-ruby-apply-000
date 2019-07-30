@@ -6,3 +6,4 @@ def parrot(x="Squawk!")
 end
 
 parrot( )
+puts"first call done."
